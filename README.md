@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Make the social links functional
+- Learn and incorporate JavaScript
+- Add images of the drinks and baked goods from the menu
+_ Add animations to other sections
