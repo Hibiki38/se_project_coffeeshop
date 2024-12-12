@@ -24,9 +24,11 @@
   border: 1px solid #838383;
   border-radius: 4px;
   color: #000;
+  font-size: 16px;
+  line-height: 20px;
 }
 
-input::placeholder {
+.form__input::placeholder {
   font-family: Inter, Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
@@ -64,8 +66,4 @@ input::placeholder {
   justify-content: center;
   align-items: center;
   gap: 12px;
-  font-family: Inter, Arial, sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
 }
